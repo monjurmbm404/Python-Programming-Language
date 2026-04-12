@@ -24,10 +24,10 @@ Python is one of the **most popular and beginner-friendly programming languages*
 
 Python is:
 
-✔ Easy to read and write
-✔ High-level programming language
-✔ Interpreted (runs line by line)
-✔ Used in:
+✔ Easy to read and write  
+✔ High-level programming language  
+✔ Interpreted (runs line by line)  
+✔ Used in:  
 
 - Web Development
 - Data Science
