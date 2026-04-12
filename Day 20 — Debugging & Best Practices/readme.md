@@ -15,10 +15,10 @@ Even expert developers make mistakes — the real skill is **finding and fixing 
 
 ## 💡 Why this topic is important?
 
-✔ Helps you understand errors easily
-✔ Saves hours of confusion
-✔ Makes your code professional
-✔ Required for real-world development & jobs
+✔ Helps you understand errors easily  
+✔ Saves hours of confusion  
+✔ Makes your code professional  
+✔ Required for real-world development & jobs   
 
 ---
 
