@@ -16,10 +16,10 @@ These concepts help you work with data efficiently, especially when dealing with
 
 ## 💡 Why this topic is important?
 
-✔ Helps you understand how Python loops work internally
-✔ Improves memory efficiency
-✔ Very useful in real-world applications (data processing, APIs, ML, etc.)
-✔ Important for interviews
+✔ Helps you understand how Python loops work internally   
+✔ Improves memory efficiency   
+✔ Very useful in real-world applications (data processing, APIs, ML, etc.)   
+✔ Important for interviews   
 
 ---
 
